@@ -1,0 +1,56 @@
+{
+  "user_id": 67890,
+  "timestamp": "2025-04-15T08:00:00Z",
+  "condition": [
+    {
+      "name": "Asthma",
+      "risk_score": 0.65,
+      "risk_category": "Moderate",
+      "risk_factors": [
+        {
+          "factor": "Environmental Triggers",
+          "weight": 0.5,
+          "description": "Exposure to allergens or pollutants triggering asthma symptoms."
+        },
+        {
+          "factor": "Lung Function",
+          "weight": 0.4,
+          "description": "Reduced lung capacity impacting breathing efficiency."
+        },
+        {
+          "factor": "Medication Adherence",
+          "weight": 0.1,
+          "description": "Irregular use of prescribed asthma medications."
+        }
+      ],
+      "weekly_average": 0.68,
+      "fifteen_days_average": 0.66,
+      "monthly_average": 0.65
+    },
+    {
+      "name": "COPD",
+      "risk_score": 0.82,
+      "risk_category": "High",
+      "risk_factors": [
+        {
+          "factor": "Smoking History",
+          "weight": 0.6,
+          "description": "Long-term smoking significantly increases COPD risk."
+        },
+        {
+          "factor": "Air Pollution Exposure",
+          "weight": 0.3,
+          "description": "Chronic exposure to high levels of pollutants reduces lung capacity."
+        },
+        {
+          "factor": "Genetic Predisposition",
+          "weight": 0.1,
+          "description": "Family history contributes to a higher baseline risk."
+        }
+      ],
+      "weekly_average": 0.80,
+      "fifteen_days_average": 0.81,
+      "monthly_average": 0.82
+    }
+  ]
+}

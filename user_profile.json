@@ -1,0 +1,48 @@
+{
+    "user_id": "123456789",
+    "name": "John Doe",
+    "age": 45,
+    "gender": "male",
+    "ethnicity": "Caucasian",
+    "height_cm": 175,
+    "weight_kg": 80,
+    "physical_activity_level": "moderate",
+    "smoking_habit": "non-smoker",
+    "drinking_habit": "occasional",
+    "health_conditions": [
+      {
+        "condition": "Hypertension",
+        "diagnosed_year": 2018,
+        "medications": ["Lisinopril", "Amlodipine"]
+      }
+    ],
+    "fitness_watch_data": {
+      "heart_rate": [68, 72, 70, 74, 71],
+      "steps": 8500,
+      "calories_burned": 400
+    },
+    "ehr_data_access": true,
+    "ehr_data": {
+      "blood_pressure": {
+        "systolic": 130,
+        "diastolic": 80,
+        "timestamp": "2025-04-10T08:00:00Z"
+      },
+      "blood_sugar": {
+        "level": 110,
+        "timestamp": "2025-04-10T08:00:00Z"
+      }
+    },
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "city": "New York City",
+      "country": "USA",
+      "air_quality_index": 45,
+      "pollution_level": "Moderate",
+      "pollen_level": "Low",
+      "wind_speed": "10 km/h",
+      "dust_level": "Low"
+    }
+  }
+  

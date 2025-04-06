@@ -1,0 +1,72 @@
+{
+    "health_plan": {
+        "daily_schedule": [
+            {
+                "time": "6:30 - 7:00",
+                "activity": "Morning Meditation or Stretching"
+            },
+            {
+                "time": "7:00 - 7:30",
+                "activity": "Breakfast"
+            },
+            {
+                "time": "10:00 - 10:30",
+                "activity": "Mid-Morning Snack (Fruits/Nuts)"
+            },
+            {
+                "time": "12:30 - 1:00",
+                "activity": "Lunch"
+            },
+            {
+                "time": "3:00 - 3:30",
+                "activity": "Afternoon Snack (Yogurt/Crackers)"
+            },
+            {
+                "time": "6:00 - 6:30",
+                "activity": "Dinner"
+            },
+            {
+                "time": "8:30 - 9:00",
+                "activity": "Evening Snack (Vegetable Sticks)"
+            }
+        ],
+        "food_plan": [
+            {
+                "time": "7:00 - 7:30",
+                "food_item": "Whole Grain Cereal with Low-Fat Milk, Berries"
+            },
+            {
+                "time": "10:00 - 10:30",
+                "food_item": "Mixed Nuts and Dried Fruits"
+            },
+            {
+                "time": "12:30 - 1:00",
+                "food_item": "Grilled Chicken Salad with Quinoa"
+            },
+            {
+                "time": "3:00 - 3:30",
+                "food_item": "Greek Yogurt with Fresh Berries"
+            },
+            {
+                "time": "6:00 - 6:30",
+                "food_item": "Baked Salmon, Steamed Vegetables"
+            },
+            {
+                "time": "8:30 - 9:00",
+                "food_item": "Sliced Cucumber with Hummus"
+            }
+        ],
+        "additional_recommendations": [
+            "Hydration: Drink 8-10 glasses of water daily.",
+            "Physical Activity: Engage in a combination of aerobic, strength training, and flexibility exercises for at least 150 minutes per week.",
+            "Mindful Eating: Eat slowly, chew thoroughly, and avoid distractions.",
+            "Supplements: Consider vitamin D and calcium supplements if recommended by healthcare provider.",
+            "Sleep: Aim for 7-9 hours of quality sleep each night."
+        ],
+        "lifestyle_tips": [
+            "Stress Management: Practice relaxation techniques such as deep breathing, yoga, or mindfulness meditation.",
+            "Social Engagement: Stay connected with friends, family, and community.",
+            "Routine Health Check-ups: Regularly visit healthcare providers for screenings and preventive care."
+        ]
+    }
+}
